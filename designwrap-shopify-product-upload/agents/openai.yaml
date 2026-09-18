@@ -1,0 +1,4 @@
+interface:
+  display_name: "DesignWrap Shopify Product Upload"
+  short_description: "Map, upload, and verify Shopify product data"
+  default_prompt: "@DesignWrap Shopify Product Upload 请读取我上传的 Excel，为“填写产品名称或 Excel 行号”创建 Shopify 商品草稿。使用产品模板“填写店铺中的产品详情页模板名称”。请勿发布，待我确认后再发布。"
